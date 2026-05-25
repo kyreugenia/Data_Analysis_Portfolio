@@ -29,8 +29,8 @@
         <ErgazomenosAnalytics>
           <ErgazomenosWTOAnalytics>
             <f_type>ΑΝ</f_type>
-            <f_from></f_from>
-            <f_to></f_to>
+            <f_from>09:00</f_from>
+            <f_to>17:00</f_to>
           </ErgazomenosWTOAnalytics>
         </ErgazomenosAnalytics>
       </ErgazomenoiWTO>
